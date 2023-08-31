@@ -1,0 +1,530 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders ./components/tag/demo/basic.tsx correctly 1`] = `
+<View
+  style={
+    Object {
+      "padding": 10,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "overflow": "visible",
+          "position": "relative",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 3,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 25,
+            "justifyContent": "center",
+            "paddingHorizontal": 15,
+            "paddingVertical": 0,
+          },
+          Array [
+            Object {
+              "backgroundColor": "#ffffff",
+              "borderColor": "#dddddd",
+            },
+          ],
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 12,
+              "textAlign": "center",
+            },
+            Array [
+              Object {
+                "color": "#888888",
+              },
+            ],
+          ]
+        }
+      >
+        Basic
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "height": 9,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "overflow": "visible",
+          "position": "relative",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 3,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 25,
+            "justifyContent": "center",
+            "paddingHorizontal": 15,
+            "paddingVertical": 0,
+          },
+          Array [
+            Object {
+              "backgroundColor": "#ffffff",
+              "borderColor": "#108ee9",
+            },
+          ],
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 12,
+              "textAlign": "center",
+            },
+            Array [
+              Object {
+                "color": "#108ee9",
+              },
+            ],
+          ]
+        }
+      >
+        Selected
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "height": 9,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "overflow": "visible",
+          "position": "relative",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 3,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 25,
+            "justifyContent": "center",
+            "paddingHorizontal": 15,
+            "paddingVertical": 0,
+          },
+          Array [
+            Object {
+              "backgroundColor": "#dddddd",
+              "borderColor": "#dddddd",
+            },
+          ],
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 12,
+              "textAlign": "center",
+            },
+            Array [
+              Object {
+                "color": "#bbbbbb",
+              },
+            ],
+          ]
+        }
+      >
+        Disabled
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "height": 9,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "overflow": "visible",
+          "position": "relative",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 3,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 25,
+            "justifyContent": "center",
+            "paddingHorizontal": 15,
+            "paddingVertical": 0,
+          },
+          Array [
+            Object {
+              "backgroundColor": "#ffffff",
+              "borderColor": "#dddddd",
+            },
+          ],
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 12,
+              "textAlign": "center",
+            },
+            Array [
+              Object {
+                "color": "#888888",
+              },
+            ],
+          ]
+        }
+      >
+        Callback
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "height": 9,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "overflow": "visible",
+          "position": "relative",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 3,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 25,
+            "justifyContent": "center",
+            "paddingHorizontal": 15,
+            "paddingVertical": 0,
+          },
+          Array [
+            Object {
+              "backgroundColor": "#ffffff",
+              "borderColor": "#dddddd",
+            },
+          ],
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 12,
+              "textAlign": "center",
+            },
+            Array [
+              Object {
+                "color": "#888888",
+              },
+            ],
+          ]
+        }
+      >
+        Closable
+      </Text>
+    </View>
+    <Text
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "color": "#cccccc",
+            "fontFamily": "antoutline",
+            "fontSize": 22,
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {
+            "backgroundColor": "transparent",
+            "borderRadius": 999,
+            "color": "#bbbbbb",
+            "fontSize": 16,
+            "left": -6,
+            "position": "absolute",
+            "top": -6,
+          },
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "height": 9,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "overflow": "visible",
+          "position": "relative",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 3,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 25,
+            "justifyContent": "center",
+            "paddingHorizontal": 15,
+            "paddingVertical": 0,
+          },
+          Array [
+            Object {
+              "backgroundColor": "#ffffff",
+              "borderColor": "#dddddd",
+            },
+            Object {
+              "height": undefined,
+              "paddingHorizontal": 5,
+              "paddingVertical": 0,
+            },
+          ],
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 12,
+              "textAlign": "center",
+            },
+            Array [
+              Object {
+                "color": "#888888",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Small and Readonly
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "height": 9,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "overflow": "visible",
+          "position": "relative",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 3,
+            "borderStyle": "solid",
+            "borderWidth": 0.5,
+            "height": 25,
+            "justifyContent": "center",
+            "paddingHorizontal": 15,
+            "paddingVertical": 0,
+          },
+          Array [
+            Object {
+              "backgroundColor": "#ffffff",
+              "borderColor": "#dddddd",
+            },
+          ],
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 12,
+              "textAlign": "center",
+            },
+            Array [
+              Object {
+                "color": "#888888",
+              },
+            ],
+          ]
+        }
+      >
+        LongPress
+      </Text>
+    </View>
+  </View>
+</View>
+`;

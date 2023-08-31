@@ -1,0 +1,7 @@
+{
+  "tslint.configFile": "node_modules/antd-tools/lib/tslint.json",
+  "editor.codeActionsOnSave": [
+    "source.organizeImports",
+    "source.fixAll.eslint"
+  ]
+}

@@ -1,0 +1,248 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders ./components/tabs/demo/basic.tsx correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+        Object {
+          "flex": 1,
+        },
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#fff",
+          "height": 150,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text>
+        Content of First Tab
+      </Text>
+    </View>
+  </View>
+  <Text
+    style={
+      Object {
+        "margin": 16,
+      }
+    }
+  >
+    Custom RenderTabBar
+  </Text>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+        Object {
+          "flex": 1,
+        },
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#fff",
+          "height": 150,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text>
+        Content of First Tab
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 2,
+      }
+    }
+  >
+    <View
+      onLayout={[Function]}
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+          Object {
+            "flex": 1,
+          },
+          Object {},
+        ]
+      }
+    >
+      <RCTScrollView
+        style={
+          Object {
+            "backgroundColor": "#fff",
+          }
+        }
+      >
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#ddd",
+                "justifyContent": "center",
+                "margin": 10,
+                "paddingVertical": 40,
+              }
+            }
+          >
+            <Text>
+              1st Tab
+               - 
+              1
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#ddd",
+                "justifyContent": "center",
+                "margin": 10,
+                "paddingVertical": 40,
+              }
+            }
+          >
+            <Text>
+              1st Tab
+               - 
+              2
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#ddd",
+                "justifyContent": "center",
+                "margin": 10,
+                "paddingVertical": 40,
+              }
+            }
+          >
+            <Text>
+              1st Tab
+               - 
+              3
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#ddd",
+                "justifyContent": "center",
+                "margin": 10,
+                "paddingVertical": 40,
+              }
+            }
+          >
+            <Text>
+              1st Tab
+               - 
+              4
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#ddd",
+                "justifyContent": "center",
+                "margin": 10,
+                "paddingVertical": 40,
+              }
+            }
+          >
+            <Text>
+              1st Tab
+               - 
+              5
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#ddd",
+                "justifyContent": "center",
+                "margin": 10,
+                "paddingVertical": 40,
+              }
+            }
+          >
+            <Text>
+              1st Tab
+               - 
+              6
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#ddd",
+                "justifyContent": "center",
+                "margin": 10,
+                "paddingVertical": 40,
+              }
+            }
+          >
+            <Text>
+              1st Tab
+               - 
+              7
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#ddd",
+                "justifyContent": "center",
+                "margin": 10,
+                "paddingVertical": 40,
+              }
+            }
+          >
+            <Text>
+              1st Tab
+               - 
+              8
+            </Text>
+          </View>
+        </View>
+      </RCTScrollView>
+    </View>
+  </View>
+</View>
+`;
